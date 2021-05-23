@@ -5,7 +5,5 @@ def main():
     # call the gui file
     tg = ta.tax_GUI()
 
-    # commiit test
-    print("hello there")
 
 main()
